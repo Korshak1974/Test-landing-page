@@ -1,0 +1,19 @@
+.carousel-caption{
+    position: absolute;
+    top: 40%;
+     transform: translateY(-10%);
+     font-size: small;
+     
+}
+.carousel-caption-2{ position: absolute;
+                     top: 5%;
+                     margin-left: 500px;
+                
+ }
+
+#Logo{position: absolute;
+      margin-left: -45%;
+      margin-top: -10px;}
+
+.nav{ color: white;
+      }
